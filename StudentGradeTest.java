@@ -5,7 +5,7 @@ import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
-import org.junit.Test;
+import org.junit.Test; 
 
 /* JUnit 3.8.1 */
 public class StudentGradeTest extends TestCase {

@@ -14,7 +14,7 @@ public class StudentGradeTest extends TestCase {
         super(testName);
     }
 
-    @BeforeClass
+      @BeforeClass
     public static void setUpClass() throws Exception {
     }
 
@@ -29,7 +29,6 @@ public class StudentGradeTest extends TestCase {
     @After
     public void tearDown() throws Exception {
     }
-
     public void testGetGrade95() {
         System.out.println("getGrade 95");
         int mark = 95;
